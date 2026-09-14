@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying TWCRAC manuscript when referring to this code preview."
+title: "TWCRAC: Leveraging Temporal Cycle Consistency and Dynamic Thresholding for Robust Repetitive Action Counting"
+type: software
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Jun
+  - family-names: Gao
+    given-names: Shizhao
+  - family-names: Hu
+    given-names: Tianwen
+  - family-names: Xie
+    given-names: Yinhui
+  - family-names: Liu
+    given-names: Zhonghua
+  - family-names: Li
+    given-names: Qiming
